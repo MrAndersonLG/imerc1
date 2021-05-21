@@ -1,0 +1,3 @@
+Es importante si haces cambio de imagen que se mantenga el mismo tamaño de las imagenes para que la pagina siga funcionando, y no se distorcione el estilo.
+
+1600x550

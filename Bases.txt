@@ -1,0 +1,27 @@
+id
+id_categoria
+id_subcategoria
+tipo: fisico o virtual
+ruta: url amigable
+titulo: nombre del producto
+titular: breve descripcion
+descripcion: descripcion 
+detalles: talla, color, duracion del curso, plataformas disponibles, etc.
+precio: 0++
+portada: imagen del producto
+vistas: registro de las visitas al producto
+ventas: registro de las ventas
+vistasGratis:
+ventasGratis:
+ofertadoPorCategoria: 
+ofertadoPorSubCategoria: 
+oferta: booleano
+precioOferta:
+descuentoOferta: Porcentaje descontar
+imgOferta: imagen de la oferta 
+finOferta: fecha finalizar Oferta
+nuevo: 0 o 1
+peso: 
+entrega: a los cuantos dias se va a entregar el producto
+fecha: de creacion
+
